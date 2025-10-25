@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    background-color: darkslateblue;
+}
+
+#home {
+    padding: 0px 40px 0px 40px;
+    color: aliceblue;
+    text-align: center;
+}
+
+#homescore {
+    background-color: black;
+    font-size: 30px;
+    color: aliceblue;
+    padding: 20px 50px 20px 50px;
+    margin: 10px 20px 30px 20px;
+    text-align: center;
+}
+
+.buttonhome {
+    text-align: center;
+}
+
+#hone {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+#htwo {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+#hthree {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+#guest {
+    padding: 0px 40px 0px 40px;
+    color: white;
+    text-align: center;
+}
+
+#guestscore {
+    background-color: black;
+    font-size: 30px;
+    color: aliceblue;
+    padding: 20px 50px 20px 50px;
+    margin: 10px 20px 30px 20px;
+    text-align: center;
+}
+
+.buttonguest {
+    text-align: center;
+    
+}
+
+#gone {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+#gtwo {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+#gthree {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
