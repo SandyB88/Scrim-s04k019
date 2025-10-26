@@ -1,6 +1,9 @@
+@import url(https://db.onlinewebfonts.com/c/ab0e848e0e83a85a5af69f5acf1ebe73?family=Cursed+Timer+ULiL); 
+
 body {
     margin: 0;
     background-color: darkslateblue;
+    font-family: Cursed Timer ULiL Font; /* use font */
 }
 
 #home {
@@ -10,9 +13,10 @@ body {
 }
 
 #homescore {
+    font-family: "Cursed Timer ULiL"; 
     background-color: black;
     font-size: 30px;
-    color: aliceblue;
+    color: red;
     padding: 20px 50px 20px 50px;
     margin: 10px 20px 30px 20px;
     text-align: center;
@@ -22,27 +26,30 @@ body {
     text-align: center;
 }
 
-#hone {
+#hpone {
+    font-family: "Cursed Timer ULiL"; 
     background-color: transparent;
-    border-color: white;
+    border-color: red;
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 0px;
     color: aliceblue;
 }
 
-#htwo {
+#hptwo {
+    font-family: "Cursed Timer ULiL"; 
     background-color: transparent;
-    border-color: white;
+    border-color: red;
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 0px;
     color: aliceblue;
 }
 
-#hthree {
+#hpthree {
+    font-family: "Cursed Timer ULiL"; 
     background-color: transparent;
-    border-color: white;
+    border-color: red;
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 0px;
@@ -56,9 +63,10 @@ body {
 }
 
 #guestscore {
+    font-family: "Cursed Timer ULiL"; 
     background-color: black;
     font-size: 30px;
-    color: aliceblue;
+    color: red;
     padding: 20px 50px 20px 50px;
     margin: 10px 20px 30px 20px;
     text-align: center;
@@ -69,30 +77,42 @@ body {
     
 }
 
-#gone {
+
+#gpone {
+    font-family: "Cursed Timer ULiL"; 
     background-color: transparent;
-    border-color: white;
+    border-color: green;
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 0px;
     color: aliceblue;
 }
 
-#gtwo {
+#gptwo {
+    font-family: "Cursed Timer ULiL"; 
     background-color: transparent;
-    border-color: white;
+    border-color: green;
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 0px;
     color: aliceblue;
 }
 
-#gthree {
+#gpthree {
+    font-family: "Cursed Timer ULiL"; 
     background-color: transparent;
-    border-color: white;
+    border-color: green;
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 0px;
+    color: aliceblue;
+}
+
+#redo {
+    font-family: "Cursed Timer ULiL"; 
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
     color: aliceblue;
 }
 
